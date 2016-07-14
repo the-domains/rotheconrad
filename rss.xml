@@ -4,8 +4,15 @@
         <description><![CDATA[I am.]]></description>
         <link>https://thegrid.ai/rotheconrad/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 05:01:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2016 05:01:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rotheconrad/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I am.]]></title>
+            <description><![CDATA[<article><h1>I am.</h1><p>versatile. dynamic. self-propelled.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b40e7f326a950cca5fc82a09fa918350/croprotate.jpg?cropheight=5184&cropwidth=3457&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa83e1455-f86b-4e8b-b9ac-45b7aafa2cfb.jpg&x=0&y=0"></article>]]></description>
+            <link>https://thegrid.ai/rotheconrad/i-am/index.html</link>
+            <guid isPermaLink="false">0ee83838-5b11-4625-ac94-ec7ad2e7399b</guid>
+            <pubDate>Thu, 14 Jul 2016 05:01:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e46e60a8-245d-4892-94fc-b78d455461db.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/rotheconrad/i-think/index.html</link>
             <guid isPermaLink="false">cc04724d-6cbe-458a-b223-315608607079</guid>
             <pubDate>Thu, 14 Jul 2016 05:00:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a83e1455-f86b-4e8b-b9ac-45b7aafa2cfb.jpg">]]></description>
-            <link>https://thegrid.ai/rotheconrad/i-am/index.html</link>
-            <guid isPermaLink="false">0ee83838-5b11-4625-ac94-ec7ad2e7399b</guid>
-            <pubDate>Thu, 14 Jul 2016 04:16:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I do.]]></title>
