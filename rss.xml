@@ -4,8 +4,15 @@
         <description><![CDATA[I am.]]></description>
         <link>https://thegrid.ai/rotheconrad/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 05:01:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2016 05:02:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rotheconrad/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/522797ef-0b47-426a-ad6a-60205890c663.jpg">]]></description>
+            <link>https://thegrid.ai/rotheconrad/i-think/index.html</link>
+            <guid isPermaLink="false">cc04724d-6cbe-458a-b223-315608607079</guid>
+            <pubDate>Thu, 14 Jul 2016 05:01:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I am.]]></title>
             <description><![CDATA[<article><h1>I am.</h1><p>versatile. dynamic. self-propelled.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b40e7f326a950cca5fc82a09fa918350/croprotate.jpg?cropheight=5184&cropwidth=3457&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa83e1455-f86b-4e8b-b9ac-45b7aafa2cfb.jpg&x=0&y=0"></article>]]></description>
@@ -21,13 +28,6 @@
             <pubDate>Thu, 14 Jul 2016 05:01:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/522797ef-0b47-426a-ad6a-60205890c663.jpg">]]></description>
-            <link>https://thegrid.ai/rotheconrad/i-think/index.html</link>
-            <guid isPermaLink="false">cc04724d-6cbe-458a-b223-315608607079</guid>
-            <pubDate>Thu, 14 Jul 2016 05:00:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[I do.]]></title>
             <description><![CDATA[<article><h1>I do.</h1><p>.: projects :: hydroponics :: aquaponics :: woodworking :: photography :.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6d687235393d0d1fc5a0a6e96f681a42/croprotate.jpg?cropheight=3457&cropwidth=5184&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F4e4f1ef7-084c-4276-8887-760d460c1d08.jpg&x=0&y=0"></article>]]></description>
             <link>https://thegrid.ai/rotheconrad/i-do/index.html</link>
@@ -39,7 +39,7 @@
             <description><![CDATA[<article><h1>I want.</h1><p>to contribute . solve problems . create . design . build</p></article>]]></description>
             <link>https://thegrid.ai/rotheconrad/i-want/index.html</link>
             <guid isPermaLink="false">8df13e32-e9da-41d0-bea8-5817298648c0</guid>
-            <pubDate>Thu, 14 Jul 2016 05:00:20 GMT</pubDate>
+            <pubDate>Thu, 14 Jul 2016 05:02:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
