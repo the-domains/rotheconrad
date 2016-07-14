@@ -4,8 +4,15 @@
         <description><![CDATA[I am.]]></description>
         <link>https://thegrid.ai/rotheconrad/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 06:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2016 06:26:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rotheconrad/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I manage.</p>]]></description>
+            <link>https://thegrid.ai/rotheconrad/i-manage/index.html</link>
+            <guid isPermaLink="false">38ec4b70-af5f-46ee-9eec-fc67ffcb97af</guid>
+            <pubDate>Thu, 14 Jul 2016 06:26:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I am.]]></title>
             <description><![CDATA[<article><h1>I am.</h1><p>versatile. dynamic. self-propelled.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b40e7f326a950cca5fc82a09fa918350/croprotate.jpg?cropheight=5184&cropwidth=3457&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa83e1455-f86b-4e8b-b9ac-45b7aafa2cfb.jpg&x=0&y=0"></article>]]></description>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/rotheconrad/i-question/index.html</link>
             <guid isPermaLink="false">ac50fb8b-71f9-4802-b763-51da9391c40e</guid>
             <pubDate>Thu, 14 Jul 2016 06:21:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>I manage.</p>]]></description>
-            <link>https://thegrid.ai/rotheconrad/i-manage/index.html</link>
-            <guid isPermaLink="false">38ec4b70-af5f-46ee-9eec-fc67ffcb97af</guid>
-            <pubDate>Thu, 14 Jul 2016 06:20:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
