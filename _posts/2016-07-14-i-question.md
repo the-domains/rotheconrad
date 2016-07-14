@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: I question.
-datePublished: '2016-07-14T05:53:24.708Z'
-dateModified: '2016-07-14T05:52:34.946Z'
+datePublished: '2016-07-14T06:21:15.858Z'
+dateModified: '2016-07-14T06:21:06.373Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-14-i-question.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-14-i-question.md
 url: i-question/index.html
 _type: Article
 
