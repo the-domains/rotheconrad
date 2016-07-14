@@ -4,7 +4,7 @@
         <description><![CDATA[I am.]]></description>
         <link>https://thegrid.ai/rotheconrad/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 05:53:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2016 06:00:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rotheconrad/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,6 +26,13 @@
             <link>https://thegrid.ai/rotheconrad/i-do/index.html</link>
             <guid isPermaLink="false">77a39b1f-3521-4bb9-ae1a-91edc0d861d4</guid>
             <pubDate>Thu, 14 Jul 2016 04:13:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I manage.</p>]]></description>
+            <link>https://thegrid.ai/rotheconrad/i-manage/index.html</link>
+            <guid isPermaLink="false">38ec4b70-af5f-46ee-9eec-fc67ffcb97af</guid>
+            <pubDate>Thu, 14 Jul 2016 06:00:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
