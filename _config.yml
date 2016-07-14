@@ -1,6 +1,6 @@
 name: Roth E. Conrad
 favicon: null
-layout_spectrum: 0.89192
+layout_spectrum: 0.16288
 typography_spectrum: 0.8010993271600455
 title: I am.
 cta:
@@ -22,8 +22,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.8122676208149642
+  brandStrength: 0
   lightness: 1
-  saturation: 0.5
-  rhythmicContrast: 1
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
